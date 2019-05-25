@@ -204,15 +204,15 @@ FEATURES EXPANDED
 }
 
 .img-phone {
-    background-image: url("/images/phone.jpeg");
+    background-image: url(/images/phone.jpeg);
 }
 
 .img-code {
-    background-image: url("/images/code.jpeg");
+    background-image: url(/images/code.jpeg);
 }
 
 .img-play {
-    background-image: url("/images/kid_play.jpeg");
+    background-image: url(/images/kid_play.jpeg);
 
 }
 
@@ -270,7 +270,7 @@ CALL TO ACTION
       rgba(0, 0, 0, 0.25), 
       rgba(0, 0, 0, 0.25)
     ),
-    url("/images/sea_cover.jpeg");
+    url(/images/sea_cover.jpeg);
     background-position: center;
     background-size: cover;
 }
